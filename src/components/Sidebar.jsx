@@ -1,4 +1,4 @@
-import Socialmidia from './Socialmidia'
+import Socialmidia from '../components/SocialMidia'
 import Avatar from '../img/Myphoto.png'
 
 import '../styles/components/sidebar.sass'
